@@ -1,0 +1,44 @@
+body {
+    background-color: cornsilk;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    border-style: outset;
+    border-color: aliceblue;
+}
+
+h2 {
+    color: forestgreen;
+    text-align: center;
+    border-style: groove;
+    border-color: aliceblue;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+div {
+    max-width: 100%;
+    max-height: 100%;
+    
+    
+}
+
+#submit {
+    background-color: red;
+    border-radius:6px;
+    color: black;
+    font-size: 30px;
+    border: 5px;
+}
+
+#centify {
+ 
+    width: 1920px;
+    height: 1080px;
+    align-content: center;
+}
